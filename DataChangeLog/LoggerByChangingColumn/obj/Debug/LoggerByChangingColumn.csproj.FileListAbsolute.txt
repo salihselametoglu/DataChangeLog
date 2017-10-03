@@ -1,0 +1,6 @@
+c:\users\salih.selametoglu\source\repos\DataChangeLog\LoggerByChangingColumn\bin\Debug\SP.LoggerByChangingColumn.dll
+c:\users\salih.selametoglu\source\repos\DataChangeLog\LoggerByChangingColumn\bin\Debug\SP.LoggerByChangingColumn.pdb
+c:\users\salih.selametoglu\source\repos\DataChangeLog\LoggerByChangingColumn\obj\Debug\LoggerByChangingColumn.csprojResolveAssemblyReference.cache
+c:\users\salih.selametoglu\source\repos\DataChangeLog\LoggerByChangingColumn\obj\Debug\LoggerByChangingColumn.csproj.CoreCompileInputs.cache
+c:\users\salih.selametoglu\source\repos\DataChangeLog\LoggerByChangingColumn\obj\Debug\SP.LoggerByChangingColumn.dll
+c:\users\salih.selametoglu\source\repos\DataChangeLog\LoggerByChangingColumn\obj\Debug\SP.LoggerByChangingColumn.pdb

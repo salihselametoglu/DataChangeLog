@@ -1,0 +1,12 @@
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\obj\Debug\DataChangeLog.csprojResolveAssemblyReference.cache
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\obj\Debug\DataChangeLog.Properties.Resources.resources
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\obj\Debug\DataChangeLog.csproj.GenerateResource.Cache
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\obj\Debug\DataChangeLog.csproj.CoreCompileInputs.cache
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\bin\Debug\DataChangeLog.exe.config
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\bin\Debug\DataChangeLog.exe
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\bin\Debug\DataChangeLog.pdb
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\obj\Debug\DataChangeLog.exe
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\obj\Debug\DataChangeLog.pdb
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\bin\Debug\SP.LoggerByChangingColumn.dll
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\bin\Debug\SP.LoggerByChangingColumn.pdb
+c:\users\salih.selametoglu\source\repos\DataChangeLog\DataChangeLog\obj\Debug\DataChangeLog.TestForm.resources
