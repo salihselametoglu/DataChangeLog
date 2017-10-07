@@ -75,9 +75,7 @@ namespace SP.LoggerByChangingColumn
                                 }
 
                                 return;
-                            }
-
-                            
+                            }                            
                         }
                     }
                 }
